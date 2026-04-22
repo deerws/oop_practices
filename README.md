@@ -1,5 +1,4 @@
 # OOP Practices - Python Projects
------------------------------------------------------
 This repository contains a collection of Python projects developed to practice Object-Oriented Programming (OOP) concepts and desktop application development.
 
 ## 📋 Projects
